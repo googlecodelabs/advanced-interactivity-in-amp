@@ -1,13 +1,19 @@
 {
   "name": "advanced-interactivity-in-amp",
   "version": "0.1.0",
-  "description": "Codelab for I/O 2017 that explores the tools that enable richly interactive content in AMP.",
+  "description": "Codelab that explores the tools for building rich interactive content in AMP.",
   "main": "app.js",
   "keywords": [
-    "Google",
     "AMP",
-    "I/O 2017"
+    "amp-bind",
+    "Google",
+    "I/O 2017",
+    "Codelab"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/googlecodelabs/advanced-interactivity-in-amp.git"
+  },
   "author": "choumx@ampproject.org",
   "license": "Apache-2.0",
   "dependencies": {
